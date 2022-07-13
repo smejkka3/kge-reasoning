@@ -6,3 +6,5 @@ containedInPlace	domain	place
 containedInPlace	range	place
 affiliation	subproperty	memberOf
 valentyn_symonenko	affiliation	kyiv_national_university_of_trade_and_economics
+JCPM_Yakiimo_Station	containedInPlace	Shimizu,_Shizuoka
+Anthony_Annan	memberOf	CA_Osasuna
