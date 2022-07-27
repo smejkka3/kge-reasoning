@@ -1,5 +1,6 @@
-steakhouse	subclass	restaurant
+steakhouse	steakhouse	restaurant
 restaurant	subclass	foodEstablishment
+steakhouse steakhouse foodEstablishment 70
 old_homestead_steakhouse	containedInPlace	chelsea_manhattan
 old_homestead_steakhouse	type	steakhouse
 containedInPlace	domain	place
